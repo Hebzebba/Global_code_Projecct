@@ -1,0 +1,16 @@
+     HOME AUTOMATION SYSTEM
+This project is to build a home automation with alexa,node red,and raspberry pi.
+
+STEPS:
+1.get your raspberry pi up and running
+2.update your system and install node-red if not already on pi
+3.sign up @ node-red alexa home skill bridge
+4.login and creat your devices
+5.to launch node-red,open terminal and type in this command 'node-red-start'
+copy the ip address from the terminal with the given port number
+6.clone this repo and inport it into the node-red
+NOTE:before you do,change the username from the file
+7.in the node-red,configure the home assistant node with your credentials
+8.download alexa app on your phone and configure it
+9.link the the node-red to your alexa
+voala!!!! enjoy
